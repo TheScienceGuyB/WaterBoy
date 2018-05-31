@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - CheckPoint
+  - Ground
+  - Water
+  - KillPlane
+  - Booster
+  - Seaweed
+  - Urchin
+  - Icicles
+  - ForceFish
+  - ReverseFish
+  - Door
+  - Bossmon
+  - Heal
+  - Net
+  - Pearl
+  - Pearl2
+  - Pearl3
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - 
+  - Ground
+  - Door
+  - background
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - WetMeter
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 2333196929
+    locked: 0
+  - name: water
+    uniqueID: 3389009165
+    locked: 0
+  - name: interactables
+    uniqueID: 2364564635
+    locked: 0
+  - name: player
+    uniqueID: 2263954983
+    locked: 0
